@@ -1,0 +1,24 @@
+{
+  "name": "prod-safe-stream-449",
+  "version": "1.0.0",
+  "description": "🔍 Cloud Scanner for search",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "search",
+    "typescript",
+    "ai",
+    "infrastructure"
+  ],
+  "author": "yksanjo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/prod-safe-stream-449.git"
+  }
+}
